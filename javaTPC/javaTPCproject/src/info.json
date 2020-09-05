@@ -1,0 +1,12 @@
+{"students": [
+  {
+    "address": "San Fransisco",
+    "phone": "010-1111-3030",
+    "name": "Stephen"
+  },
+  {
+    "address": "Los angles",
+    "phone": "010-2222-2323",
+    "name": "James"
+  }
+]}

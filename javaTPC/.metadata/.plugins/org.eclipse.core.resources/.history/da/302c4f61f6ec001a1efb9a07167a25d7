@@ -1,0 +1,17 @@
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+public class NaverMap implements ActionListener {
+
+	
+	Project01_F naverMap;
+	public NaverMap(Project01_F naverMap) {
+		this.naverMap=naverMap;
+	}
+	@Override
+	public void actionPerformed(ActionEvent e) {
+		
+	}
+	
+
+}

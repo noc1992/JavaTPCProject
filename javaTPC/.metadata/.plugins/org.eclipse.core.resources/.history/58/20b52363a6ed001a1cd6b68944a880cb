@@ -1,0 +1,10 @@
+package kr.inflearn;
+
+public class Project02_B_crawlingbible {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

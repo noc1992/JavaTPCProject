@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/rkm14/Desktop/javaTPC/lib/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rkm14/Desktop/javaTPC/lib/json-20180813.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rkm14/Desktop/javaTPC/lib/jsoup-1.11.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rkm14/Desktop/javaTPC/lib/commons-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rkm14/Desktop/javaTPC/lib/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rkm14/Desktop/javaTPC/lib/poi-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rkm14/Desktop/javaTPC/lib/poi-ooxml-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rkm14/Desktop/javaTPC/lib/poi-ooxml-schemas-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rkm14/Desktop/javaTPC/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rkm14/Desktop/javaTPC/lib/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rkm14/Desktop/javaTPC/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rkm14/Desktop/javaTPC/lib/commons-compress-1.20-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rkm14/Desktop/javaTPC/lib/commons-compress-1.20-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rkm14/Desktop/javaTPC/lib/commons-compress-1.20-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rkm14/Desktop/javaTPC/lib/commons-compress-1.20-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rkm14/Desktop/javaTPC/lib/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rkm14/Desktop/javaTPC/lib/itextpdf-5.5.13.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
