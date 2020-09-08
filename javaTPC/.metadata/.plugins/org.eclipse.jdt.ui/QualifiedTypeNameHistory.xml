@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.awt.GridLayout"/>
-<fullyQualifiedTypeName name="java.awt.BorderLayout"/>
-<fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
 <fullyQualifiedTypeName name="Project01_F"/>
 <fullyQualifiedTypeName name="org.json.JSONTokener"/>
 <fullyQualifiedTypeName name="org.json.JSONArray"/>
@@ -15,10 +12,6 @@
 <fullyQualifiedTypeName name="java.lang.Runnable"/>
 <fullyQualifiedTypeName name="java.io.BufferedOutputStream"/>
 <fullyQualifiedTypeName name="kr.inflearn.DownloadBroker"/>
-<fullyQualifiedTypeName name="org.apache.poi.hssf.usermodel.HSSFWorkbook"/>
-<fullyQualifiedTypeName name="org.apache.poi.hssf.usermodel.HSSFSheet"/>
-<fullyQualifiedTypeName name="org.apache.poi.hssf.usermodel.HSSFRow"/>
-<fullyQualifiedTypeName name="org.apache.poi.hssf.usermodel.HSSFCell"/>
 <fullyQualifiedTypeName name="org.apache.poi.ss.usermodel.Workbook"/>
 <fullyQualifiedTypeName name="org.apache.xmlbeans.impl.common.IOUtil"/>
 <fullyQualifiedTypeName name="org.apache.poi.util.IOUtils"/>
@@ -48,16 +41,23 @@
 <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
 <fullyQualifiedTypeName name="org.apache.poi.xssf.usermodel.XSSFRow"/>
 <fullyQualifiedTypeName name="org.apache.poi.xssf.usermodel.XSSFCell"/>
-<fullyQualifiedTypeName name="com.itextpdf.text.PageSize"/>
-<fullyQualifiedTypeName name="java.lang.Exception"/>
-<fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfWriter"/>
-<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
-<fullyQualifiedTypeName name="com.itextpdf.text.Document"/>
-<fullyQualifiedTypeName name="java.io.File"/>
-<fullyQualifiedTypeName name="com.itextpdf.text.pdf.BaseFont"/>
 <fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfPTable"/>
 <fullyQualifiedTypeName name="com.itextpdf.text.Element"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.Paragraph"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.Chunk"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="org.apache.poi.hssf.usermodel.HSSFWorkbook"/>
+<fullyQualifiedTypeName name="org.apache.poi.hssf.usermodel.HSSFSheet"/>
+<fullyQualifiedTypeName name="org.apache.poi.hssf.usermodel.HSSFRow"/>
+<fullyQualifiedTypeName name="org.apache.poi.hssf.usermodel.HSSFCell"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.PageSize"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfWriter"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.Document"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.pdf.BaseFont"/>
 <fullyQualifiedTypeName name="com.itextpdf.text.Font"/>
-<fullyQualifiedTypeName name="com.itextpdf.text.Phrase"/>
 <fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfPCell"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.Phrase"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.Image"/>
 </qualifiedTypeNameHistroy>
