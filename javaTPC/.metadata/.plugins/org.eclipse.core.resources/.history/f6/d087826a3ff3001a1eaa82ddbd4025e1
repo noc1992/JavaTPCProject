@@ -1,0 +1,19 @@
+import kr.bit.*;
+
+public class TPC01 {
+
+	public static void main(String[] args) {
+		Book a;
+		a = new Book();
+		a.title = "Java의 정석";
+		a.price = 15000;
+		a.company = "도우출판";
+		a.page = 700;
+		
+		System.out.println(a.title);
+		System.out.println(a.company);
+		System.out.println(a.page);
+		System.out.println(a.company);
+	}
+
+}

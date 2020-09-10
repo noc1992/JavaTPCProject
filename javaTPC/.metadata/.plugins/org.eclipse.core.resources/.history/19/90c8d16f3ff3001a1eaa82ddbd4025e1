@@ -1,0 +1,33 @@
+import kr.bit.*;
+
+public class TPC01 {
+
+	public static void main(String[] args) {
+		Book a;
+		a = new Book();
+		a.title = "Java의 정석";
+		a.price = 15000;
+		a.company = "도우출판";
+		a.page = 700;
+		
+		System.out.println(a.title);
+		System.out.println(a.company);
+		System.out.println(a.page);
+		System.out.println(a.company);
+		
+		PersonVO p;
+		p = new PersonVO();
+		p.name = "stephen";
+		p.age = 32;
+		p.weight = 80.3f;
+		p.height = 190;
+		
+		hap(1, 2, 3);
+	}
+	
+	public static void hap (int a, int b, int c) {
+		int sum = a + b + c;
+		System.out.println(sum);
+	}
+
+}
