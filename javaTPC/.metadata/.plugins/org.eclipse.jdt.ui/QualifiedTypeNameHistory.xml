@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="javax.swing.text.Document"/>
-<fullyQualifiedTypeName name="org.jsoup.select.Elements"/>
-<fullyQualifiedTypeName name="java.lang.Runnable"/>
 <fullyQualifiedTypeName name="java.io.BufferedOutputStream"/>
 <fullyQualifiedTypeName name="kr.inflearn.DownloadBroker"/>
 <fullyQualifiedTypeName name="org.apache.poi.ss.usermodel.Workbook"/>
@@ -60,4 +57,7 @@
 <fullyQualifiedTypeName name="java.io.OutputStream"/>
 <fullyQualifiedTypeName name="java.io.DataOutputStream"/>
 <fullyQualifiedTypeName name="java.io.DataInputStream"/>
+<fullyQualifiedTypeName name="kr.tpc.BookDTO"/>
+<fullyQualifiedTypeName name="java.util.zip.Inflater"/>
+<fullyQualifiedTypeName name="kr.tpc.Inflearn"/>
 </qualifiedTypeNameHistroy>

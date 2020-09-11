@@ -1,0 +1,13 @@
+package kr.tpc;
+
+public class Inflearn {
+	private Inflearn() {
+		
+	}
+	public void tpc() {
+		System.out.println("TPC 강의 재밌음?");
+	}
+	public static void java() {
+		System.out.println("자바 강의 재밌음?");
+	}
+}
