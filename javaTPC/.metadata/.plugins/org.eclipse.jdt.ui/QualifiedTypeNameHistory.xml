@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="java.io.BufferedOutputStream"/>
-<fullyQualifiedTypeName name="kr.inflearn.DownloadBroker"/>
-<fullyQualifiedTypeName name="org.apache.poi.ss.usermodel.Workbook"/>
 <fullyQualifiedTypeName name="org.apache.xmlbeans.impl.common.IOUtil"/>
 <fullyQualifiedTypeName name="org.apache.poi.util.IOUtils"/>
 <fullyQualifiedTypeName name="org.omg.CORBA.portable.InputStream"/>
@@ -60,4 +57,7 @@
 <fullyQualifiedTypeName name="kr.tpc.BookDTO"/>
 <fullyQualifiedTypeName name="java.util.zip.Inflater"/>
 <fullyQualifiedTypeName name="kr.tpc.Inflearn"/>
+<fullyQualifiedTypeName name="kr.tpc.Animal"/>
+<fullyQualifiedTypeName name="kr.tpc.Cat"/>
+<fullyQualifiedTypeName name="kr.tpc.Dog"/>
 </qualifiedTypeNameHistroy>
