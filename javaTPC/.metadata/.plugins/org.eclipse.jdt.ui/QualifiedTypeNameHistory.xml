@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="org.apache.xmlbeans.impl.common.IOUtil"/>
 <fullyQualifiedTypeName name="org.apache.poi.util.IOUtils"/>
 <fullyQualifiedTypeName name="org.omg.CORBA.portable.InputStream"/>
 <fullyQualifiedTypeName name="org.apache.poi.ss.usermodel.Sheet"/>
@@ -60,4 +59,5 @@
 <fullyQualifiedTypeName name="kr.tpc.Animal"/>
 <fullyQualifiedTypeName name="kr.tpc.Cat"/>
 <fullyQualifiedTypeName name="kr.tpc.Dog"/>
+<fullyQualifiedTypeName name="kr.tpc.Remocon"/>
 </qualifiedTypeNameHistroy>

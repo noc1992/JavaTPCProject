@@ -1,0 +1,7 @@
+package kr.tpc;
+
+public interface Remocon {
+	public void chUp();
+	public void chDown();
+	public void internet();
+}
